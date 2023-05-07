@@ -1,10 +1,3 @@
----
-type: Git
-date: 2023
-Context: cloud
-Provider: azure
----
-
 # AKS with Terraform
 Azure Kubernetes Service (AKS) with Terraform.
 
