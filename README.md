@@ -188,7 +188,7 @@ terraform destroy --var k8s_version=$K8S_VER --target azurerm_kubernetes_cluster
 Delete the resource group. Please note that deleting a resource group will also delete all resources contained within it. 
 
 ```bash
-az group delete --name aka-test --yes --no-wait
+az group delete --name aks-test --yes --no-wait
 ```
 
 
